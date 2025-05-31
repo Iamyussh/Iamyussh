@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm a Software Engineer passionate about building scalable, efficient, and secure applications.<br><br>🚀 I work primarily with **Java**, **Spring Boot**, **React**, and **Python**, and I’m diving deep into **DevOps**, exploring tools like **Docker**, **AWS**, **Jenkins**, **SonarQube**, and more.<br><br>🔧 I love solving real-world problems, automating workflows, and optimizing systems for performance and reliability.<br><br>📦 Most of my recent projects focus on full-stack development and CI/CD pipelines with a strong emphasis on best practices, security, and cloud-native architectures.<br><br>🌱 Currently learning: **Kubernetes**, **Terraform**, and advanced **cloud architecture**.</p>
+<p align="left">👋 Hi there! I'm a Software Engineer passionate about building scalable, efficient, and secure applications.<br><br>
 
 ###
 
